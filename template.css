@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+}
+
+.paragraph4 {
+    color: red;
+}
+
+.paragraph2 {
+    color:purple;
+}
+
+.paragraph2:hover {
+    background-color: violet;
+}
+
+.imagemonkey {
+    width: 20%;
+    height: 20%;
+}
+
+.imagemonkey:hover {
+    width: 50%;
+    height: 50%;
+}
